@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SK-Cafe-Home-Landing-Page/static/css/main.6f2bc15a.chunk.css",
+    "main.js": "/SK-Cafe-Home-Landing-Page/static/js/main.2361e59f.chunk.js",
+    "main.js.map": "/SK-Cafe-Home-Landing-Page/static/js/main.2361e59f.chunk.js.map",
+    "runtime-main.js": "/SK-Cafe-Home-Landing-Page/static/js/runtime-main.462e8e16.js",
+    "runtime-main.js.map": "/SK-Cafe-Home-Landing-Page/static/js/runtime-main.462e8e16.js.map",
+    "static/js/2.5b05af9f.chunk.js": "/SK-Cafe-Home-Landing-Page/static/js/2.5b05af9f.chunk.js",
+    "static/js/2.5b05af9f.chunk.js.map": "/SK-Cafe-Home-Landing-Page/static/js/2.5b05af9f.chunk.js.map",
+    "static/js/3.f9c891c2.chunk.js": "/SK-Cafe-Home-Landing-Page/static/js/3.f9c891c2.chunk.js",
+    "static/js/3.f9c891c2.chunk.js.map": "/SK-Cafe-Home-Landing-Page/static/js/3.f9c891c2.chunk.js.map",
+    "index.html": "/SK-Cafe-Home-Landing-Page/index.html",
+    "static/css/main.6f2bc15a.chunk.css.map": "/SK-Cafe-Home-Landing-Page/static/css/main.6f2bc15a.chunk.css.map",
+    "static/js/2.5b05af9f.chunk.js.LICENSE.txt": "/SK-Cafe-Home-Landing-Page/static/js/2.5b05af9f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/SK-Cafe-Home-Landing-Page/static/media/backg6.8d9ba12a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.462e8e16.js",
+    "static/js/2.5b05af9f.chunk.js",
+    "static/css/main.6f2bc15a.chunk.css",
+    "static/js/main.2361e59f.chunk.js"
+  ]
+}
